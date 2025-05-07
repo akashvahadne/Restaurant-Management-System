@@ -15,10 +15,25 @@ JavaScript: Basic interactivity and functionality.<br>
 <br>
 
 <b>Project Structure</b><br>
-├── index.html       # Main HTML file for the website layout.<br>
-├── style.css        # CSS file for styling the user interface.<br>
-├── script.js        # JavaScript file for basic interaction.<br>
-└── README.md        # Project README file<br>
+├── assets
+│   ├── css
+│   │   └── style1.css         # Main CSS file
+│   ├── img                    # Folder for images used in the project
+│   ├── js
+│   │   └── main.js            # Main JavaScript file
+│   └── vendor                 # External libraries and frameworks
+│       ├── animate.css        # Animation library
+│       ├── aos                # Animate on scroll library
+│       ├── bootstrap-icons    # Bootstrap icons
+│       ├── bootstrap          # Bootstrap framework
+│       ├── boxicons           # Boxicons for icons
+│       ├── glightbox          # Lightbox gallery library
+│       ├── isotope-layout     # Isotope layout filtering library
+│       ├── php-email-form     # Contact form handling
+│       └── swiper             # Swiper.js for sliders
+├── Index1.html                # Main HTML file
+└── README.md                  # Project README file
+<br>
 
 <br>
 
