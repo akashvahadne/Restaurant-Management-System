@@ -14,26 +14,21 @@ JavaScript: Basic interactivity and functionality.<br>
 
 <br>
 
-<b>Project Structure</b><br>
-├── assets
-│   ├── css
-│   │   └── style1.css         # Main CSS file
-│   ├── img                    # Folder for images used in the project
-│   ├── js
-│   │   └── main.js            # Main JavaScript file
-│   └── vendor                 # External libraries and frameworks
-│       ├── animate.css        # Animation library
-│       ├── aos                # Animate on scroll library
-│       ├── bootstrap-icons    # Bootstrap icons
-│       ├── bootstrap          # Bootstrap framework
-│       ├── boxicons           # Boxicons for icons
-│       ├── glightbox          # Lightbox gallery library
-│       ├── isotope-layout     # Isotope layout filtering library
-│       ├── php-email-form     # Contact form handling
-│       └── swiper             # Swiper.js for sliders
-├── Index1.html                # Main HTML file
-└── README.md                  # Project README file
+<b>Features</b><br>
+- Static front-end design
+- Simple navigation and layout
+- Built with pure HTML, CSS, and JS
+
 <br>
+
+<b>Note</b><br>
+This project is not responsive and does not include any backend functionality.
+
+<br>
+
+<b>Future Scope</b><br>
+- Improve responsiveness
+- Add order management functionality with backend
 
 <br>
 
